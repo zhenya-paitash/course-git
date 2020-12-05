@@ -2,4 +2,4 @@ const hello = ['hello', 'world'].join` `.concat('!!!').toUpperCase();
 console.log(hello);
 
 
-console.log('Hi from branch "master"');
+console.log('Hello from branch "add-feature1"');
